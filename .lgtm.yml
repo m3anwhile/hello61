@@ -1,0 +1,19 @@
+extraction:
+  cpp:
+    after_prepare: 
+      - python report.py 61
+  cobol:
+    after_prepare: 
+      - python report.py 61
+  csharp:
+    after_prepare: 
+      - python report.py 61
+  java:
+    after_prepare: 
+      - python report.py 61
+  javascript:
+    after_prepare: 
+      - python report.py 61
+  python:
+    after_prepare: 
+      - python report.py 61
